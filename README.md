@@ -50,7 +50,7 @@ This repository reflects my learning journey. Feel free to clone, fork, or sugge
 
 ## 👤 Author
 
-**Varun Reddy**  
+**Varun M**  
 📧 varunm4563232@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/varunm02/)  
 🔗 [GitHub](https://github.com/usernamemvr)
