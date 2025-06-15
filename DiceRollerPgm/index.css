@@ -1,0 +1,73 @@
+body {
+  background-color: rgb(66, 54, 39);
+  text-align: center;
+}
+
+#pgm {
+  margin-top: 10px;
+}
+
+h1 {
+  font-family: Verdana;
+  max-width: 350px;
+  margin: auto;
+  padding: 15px;
+  background-color: beige;
+  color: black;
+  border-radius: 8px;
+  box-shadow: 6px 6px 16px beige;
+}
+
+input {
+  font-size: 2em;
+  max-width: 150px;
+  text-align: center;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+#textbox {
+  font-size: 2em;
+  border: 2px solid rgba(0, 0, 0, 0.801);
+  width: 50%;
+  border-radius: 4px;
+  margin-bottom: 15px;  
+  text-align: center;
+}
+
+label { 
+  font-size: 1.5em; 
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}   
+button { 
+  margin-top: 15px; 
+  background-color: hsl(0, 100%, 60%); 
+  color: white; 
+  font-size: 1.5em;
+  font-weight: bold; 
+  border: none; 
+  padding: 12px 15px; 
+  border-radius: 5px; 
+  cursor: pointer; 
+}   
+  
+button:hover { 
+  background-color: hsl(0, 100%, 66%); 
+}
+
+#diceResult {
+  margin-top: 15px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#diceImages {
+  margin: 25px;
+  font-size: 2em;
+}
+
+#diceImages img {
+  width: 158px;
+  height: 158px;
+}

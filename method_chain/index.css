@@ -1,0 +1,19 @@
+#number {
+  text-align: center;
+  display: block;
+  font-size: 3em;
+  font-style: Halvetica; 
+  margin-top: 10px;
+}
+
+body {
+  font-family: Verdana;
+  text-align: center;
+}
+
+#myButton {
+  font-size: 2em;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 2px;
+}
