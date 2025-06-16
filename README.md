@@ -14,7 +14,8 @@ This repo includes all the mini-projects I’ve built while learning JavaScript 
 | 🌐 **circumference**   | Calculates the circumference of a circle based on user input. |
 | ➕ **counter**         | Simple counter app with increment/decrement buttons. |
 | 🔗 **method_chain**    | Demonstrates JavaScript method chaining and string/array methods. |
-| 🎲 **random_gen**      | Generates a random number or value on demand. |
+| 🔢 **random_gen**      | Generates a random number or value on demand. |
+| 🔡 **random_gen**      | Generates a random password based on checks. |
 | 🌡️ **temp_prgrm**      | Temperature conversion (Celsius ↔ Fahrenheit) program. |
 
 > 📌 More projects will be added as I continue learning.
