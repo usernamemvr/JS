@@ -19,6 +19,7 @@ This repo includes all the mini-projects I’ve built while learning JavaScript 
 | 🌡️ **temp_prgrm**      | Temperature conversion (Celsius ↔ Fahrenheit) program. |
 | ☁️ **Weather_app**      | A responsive weather app that fetches real-time weather data by city name using the OpenWeatherMap API. |
 | 🕛 **Digital_clock**      | A live digital clock that displays the current time in 12-hour format with AM/PM, updating every second. |
+| 🎈 **Event_Listener**      | Create 2 mini projects to understand event listeners. |
 
 > 📌 More projects will be added as I continue learning.
 
