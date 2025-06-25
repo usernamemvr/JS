@@ -1,5 +1,3 @@
-// API_KEY = API_KEY_FROM_OPENWEATHERMAP 70df2311f57db334c6d6c32c495cc1ab
-
 const mybox = document.getElementById("mybox");
 const movement = 100;
 let x = 0, y = 0; 
