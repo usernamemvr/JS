@@ -20,6 +20,8 @@ This repo includes all the mini-projects I’ve built while learning JavaScript 
 | ☁️ **Weather_app**      | A responsive weather app that fetches real-time weather data by city name using the OpenWeatherMap API. |
 | 🕛 **Digital_clock**      | A live digital clock that displays the current time in 12-hour format with AM/PM, updating every second. |
 | 🎈 **Event_Listener**      | Created 2 mini projects to understand event listeners. |
+| 📷 **Image_hider**      | Created a mini projects to understand hide html tags using event listeners. |
+| ⏱️ **Stopwatch**      | Stopwatch program using setInterval(), clearInterval(), Date. |
 
 > 📌 More projects will be added as I continue learning.
 

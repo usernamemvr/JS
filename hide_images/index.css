@@ -1,0 +1,14 @@
+#image {
+    height: 250px;
+    width: 350px;
+    margin-top: 20px;
+}
+
+#mybutton {
+    font-size: 2rem;
+    font-family: monospace;
+    font-weight: bold;
+    box-shadow: 10px;
+    border-radius: 6px;
+    margin-bottom: 25px;
+}
