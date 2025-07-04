@@ -24,6 +24,7 @@ This repo includes all the mini-projects I’ve built while learning JavaScript 
 | ⏱️ **Stopwatch**      | Stopwatch program using setInterval(), clearInterval(), Date. |
 | 📃 **TO-DO**      | Created a To-Do list application using HTML,CSS and JS. |
 | 📝 **Notes_APP**      | Created a Notes application using HTML,CSS and JS. |
+| 📦 **QR_code_gen**      | Created a QR code generator application for text/URL. |
 
 > 📌 More projects will be added as I continue learning.
 
