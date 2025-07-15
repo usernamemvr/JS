@@ -43,12 +43,20 @@ Here are the primary resources I'm using to build and understand these projects:
 
 ## 🧠 Concepts Covered
 
-- ✅ JavaScript basics: variables, functions, data types
-- ✅ DOM manipulation & event handling
-- ✅ Loops, conditionals, arrays, and objects
-- ✅ Random number generation
-- ✅ String & number methods
-- 🔜 Upcoming: API integration, async JS, local storage, modules
+- ✅ JavaScript basics: variables, constants, data types, type conversion
+- ✅ Operators: arithmetic, logical, ternary, comparison
+- ✅ Control structures: if/else, switch, while, for loops
+- ✅ Functions: declarations, expressions, arrow functions, callbacks
+- ✅ Scope, hoisting, and closures
+- ✅ Objects: creation, `this`, constructors, classes, inheritance, getters/setters
+- ✅ Arrays & methods: push/pop, slice, map, filter, reduce, sort, shuffle
+- ✅ Advanced features: destructuring, spread/rest operators, method chaining
+- ✅ DOM manipulation: selectors, navigation, updating HTML/CSS
+- ✅ Event handling: mouse events, keyboard events, form input
+- ✅ Asynchronous JavaScript: callbacks, promises, async/await
+- ✅ Fetch API & working with JSON
+- ✅ ES6 modules
+- 🔜 Upcoming: local storage, deployment, testing
 
 ---
 
